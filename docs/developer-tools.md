@@ -397,6 +397,7 @@
 * 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
+* 🌐 **[GameEngineHub](https://gameenginehub.com)** - Game Engine Research, Comparison & Selection Platform
 * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_game_development)**
 * ↪️ **[Sound Effect Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sfx_.2F_loops)**
 * [⁠GameDev Torch](https://gamedevtorch.com/) - Multi-Site Game Dev Search Engine
